@@ -1,0 +1,158 @@
+* {
+  box-sizing: border-box;
+}
+
+body {
+  font-family: sans-serif;
+}
+
+.header {
+  padding: 2%;
+  background: #12A89D;
+  color: white;
+  font-size: 3%;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+footer {
+  text-align: center;
+  padding: 2%;
+  background-color: black;
+  color: white;
+  line-height: 2em;
+  width: 100%;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.woba_icon {
+  width: 100px;
+  height: auto;
+}
+
+#cart_icon {
+  width: 65px;
+  height: auto;
+  float: right;
+  margin-top: 1.5%;
+}
+
+h1 {
+  font-size: 2.2em;
+  width: 100%;
+  text-align: center;
+  color: #373737
+}
+
+#p1 {
+  text-align: center;
+  font-size: 100%;
+  margin-left: 10%;
+  margin-right: 10%;
+  line-height: 2em;
+  color: #707070
+}
+
+.button {
+  background-color: #12A89D;
+  border: none;
+  color: white;
+  padding: 12px 32px;
+  text-align: center;
+  text-decoration: none;
+  display: inline-block;
+  font-size: 16px;
+  border-radius: 5px;
+  border: 2px solid #12A89D ;
+}
+
+.summary {
+  width: 80%;
+  background-color: #dff3f2;
+  opacity: 70%;
+  padding: 2%;
+}
+.summary td {
+
+    border:1% solid black;
+}
+.col-1 {
+  width: 50%;
+}
+
+.col-2 {
+  width: 50%;
+}
+
+.order {
+  width: 80%;
+  border-collapse: collapse;
+
+}
+table.order td {
+  border-bottom: 1px solid rgba(107, 119, 108, 0.61);
+  border-top: 1px solid rgba(107, 119, 108, 0.61);
+  text-align: center;
+  padding: 2%;
+}
+table.order th{
+  padding: 1%;
+}
+#shoes {
+  height: 100px;
+  width: auto;
+}
+
+.total {
+  width: 80%;
+  margin-left: auto;
+  margin-right: auto;
+  font-weight: bold;
+  font-size: 120%;
+}
+.total td
+{
+  text-align: center;
+}
+.button:hover {
+  color: #12A89D;
+  background-color: rgb(217, 250, 249);
+  border-radius: 5px;
+  border: 2px solid #12A89D ;
+}
+
+
+.c1
+{
+  width: 40%;
+}
+.c2
+{
+  width: 20%;
+}
+.c3
+{
+  width: 20%;
+}
+.c4
+{
+  width: 20%;
+}
+.summary td
+{
+  padding: 1%;
+}
+.test
+{
+  width: 100%;
+}
+.c5
+{
+  width: 50%;
+}
+.c6
+{
+  width: 50%;
+}
