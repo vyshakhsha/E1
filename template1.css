@@ -66,6 +66,8 @@ h1 {
   font-size: 16px;
   border-radius: 5px;
   border: 2px solid #12A89D ;
+  border: none;
+  outline: none;
 }
 
 .summary {
